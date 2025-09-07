@@ -1,0 +1,15 @@
+.task-bar {
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+  text-transform: capitalize;
+  color: rgb(231, 227, 227);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: rgb(172, 7, 144);
+  width: 100%;
+}
+
+.text {
+  padding: 15px;
+}
